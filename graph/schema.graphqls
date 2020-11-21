@@ -1,7 +1,3 @@
-# GraphQL schema example
-#
-# https://gqlgen.com/getting-started/
-
 type Gunpla {
   id: ID!
   boxArtImageLink: String!
